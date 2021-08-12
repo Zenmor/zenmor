@@ -3,26 +3,27 @@
 <head>
 <style> 
 div {
-  width: 100px;
-  height: 100px;
-  background-color: red;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: relative;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 2s;
 }
 
 @keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
+  0%   {background-color:purple; left:0px; top:0px;}
+  25%  {background-color:white; left:200px; top:0px;}
+  50%  {background-color:purple; left:200px; top:200px;}
+  75%  {background-color:white; left:0px; top:200px;}
+  100% {background-color:purple; left:0px; top:0px;}
 }
 </style>
 </head>
 <body>
 
-<p><b>Note:</b> This example does not work in Internet Explorer 9 and earlier versions.</p>
 
 <div></div>
-
-<p><b>Note:</b> When an animation is finished, it changes back to its original style.</p>
 
 </body>
 </html>
