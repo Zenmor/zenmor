@@ -4,9 +4,10 @@ Hello I am Zenmor, Welcome to my GitHub page!
 
 <p align="center">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=zenmor&show_icons=true&theme=prussian" height="165px">
+	<img src="https://github-readme-stats.vercel.app/api?username=zenmor&show_icons=true&theme=nord" height="165px">
 </p>
 
-<p align="center">    
-    <img src="https://github.com/Zenmor/Zenmor/blob/master/github-metrics.svg">
+<p align="center">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmor&layout=compact" height="165px">
 </p>
