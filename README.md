@@ -1,6 +1,6 @@
-<h5 align="center">
+<h3 align="center">
 Hello I am Zenmor, Welcome to my GitHub page!
-</h5>
+</h3>
 
 <p align="center">
 A wannabe web developer that loves cats.
