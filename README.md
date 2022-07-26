@@ -8,5 +8,5 @@ Hello I am Zenmor, Welcome to my GitHub page!
 </p>
 
 <p align="center">    
-    <img src="https://github.com/Flam3rboy/Flam3rboy/blob/master/github-metrics.svg">
+    <img src="https://github.com/Zenmor/Zenmor/blob/master/github-metrics.svg">
 </p>
