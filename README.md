@@ -1,6 +1,9 @@
-<h1 align="center">
+<h5 align="center">
 Hello I am Zenmor, Welcome to my GitHub page!
-</h1>
+</h5>
+
+<p align="center">
+A wannabe web developer that loves cats.
 
 <p align="center">
 	<br>
@@ -9,5 +12,5 @@ Hello I am Zenmor, Welcome to my GitHub page!
 
 <p align="center">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmor&layout=compact&theme=nord" height="65px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmor&layout=compact&theme=nord" height="80px">
 </p>
