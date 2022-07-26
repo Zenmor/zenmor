@@ -9,5 +9,5 @@ Hello I am Zenmor, Welcome to my GitHub page!
 
 <p align="center">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmor&layout=compact" height="165px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenmor&layout=compact&theme=nord" height="165px">
 </p>
